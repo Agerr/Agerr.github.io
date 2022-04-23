@@ -1,12 +1,17 @@
 body {
     color: #c822cf;
     background-color: #3a0267;
+    font-family:sans-serif;
+}
+
+a {
+    color: #c822cf;
 }
 
 .Logo {
     width: 320px;
 }
 
-ul {
+a, ul {
     font-size: 20px;
 }
