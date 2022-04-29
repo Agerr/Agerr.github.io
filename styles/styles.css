@@ -1,17 +1,31 @@
-body {
+html {
+    font-size: 25px;
+    font-family: "Open Sans", sans-serif;
+
     color: #c822cf;
     background-color: #3a0267;
-    font-family:sans-serif;
+}
+
+body {
+
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+p {
+    font-size: 25px;
+    line-height: 1px;
+    letter-spacing: 1px;
 }
 
 a {
     color: #c822cf;
 }
 
-.logo {
+#logo {
     width: 160px;
-}
-
-a, ul {
-    font-size: 20px;
 }
