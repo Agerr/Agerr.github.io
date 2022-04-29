@@ -2,30 +2,31 @@ html {
     font-size: 25px;
     font-family: "Open Sans", sans-serif;
 
-    color: #c822cf;
-    background-color: #3a0267;
-}
-
-body {
-
+    color: #ad32ff;
+    background-color: #370064;
 }
 
 h1 {
     font-size: 60px;
     text-align: center;
     letter-spacing: 3px;
+    margin: 40 auto;
 }
 
 p {
     font-size: 25px;
+    text-align: center;
     line-height: 1px;
     letter-spacing: 1px;
+    margin: 0;
 }
 
 a {
-    color: #c822cf;
+    color: #ad32ff;
 }
 
 #logo {
+    display: block;
     width: 160px;
+    margin: 150px auto;
 }
