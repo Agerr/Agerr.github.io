@@ -3,14 +3,21 @@ html {
     font-family: "Open Sans", sans-serif;
 
     color: #ad32ff;
-    background-color: #370064;
+    background-color: #280049;
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 80px;
     text-align: center;
     letter-spacing: 3px;
     margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 35px;
+    text-align: center;
+    margin-top: 30px;
     margin-bottom: 20px;
 }
 
