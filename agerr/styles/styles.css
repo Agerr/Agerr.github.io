@@ -59,8 +59,7 @@ a {
 
 #logo {
     display: block;
-    width: 160px;
+    width: 180px;
 
-    margin: auto;
-    margin-top: 50px;
+    margin: 50px auto;
 }
